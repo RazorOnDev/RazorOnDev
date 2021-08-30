@@ -1,7 +1,7 @@
 # Razor
-Hello, I'm **Tovade**.
+Hello, I'm **Razor**.
 
-# Mis Proyectos
+# My Projects
 | Project        | URL           | Description |
 | ------------- |:-------------:|:--------------:|
 | KZ Shop      | [Discord](https://discord.gg/EbgQ7XpNA2) | KZ Shop is a store specialized in FiveM services. |
