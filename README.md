@@ -4,7 +4,7 @@ Hello, I'm **Razor**.
 # My Projects
 | Project        | URL           | Description |
 | ------------- |:-------------:|:--------------:|
-| KZ Shop      | [Discord](https://discord.gg/EbgQ7XpNA2) | KZ Shop is a store specialized in FiveM services. |
+| RZ Shop & Resources      | [Discord](https://discord.gg/EbgQ7XpNA2) | RZ Shop & Resources is a store specialized in FiveM services. |
 | Wide Cloud   | Not Available | - |
 | Discord Shield | Not Available | Discord Shield is a security bot for Discord. |
 | OscurosRP | [Discord](https://discord.gg/NPz9rB7RWS) | OscurosRP, is a serious Hispanic roleplaying server. |
