@@ -1,5 +1,5 @@
 # Razor
-Focused.
+Working on some stuff
 
 ![Snowflake107](https://github-readme-stats.vercel.app/api?username=RazorOnDev&show_icons=true&theme=tokyonight&hide=["issues"])
 
