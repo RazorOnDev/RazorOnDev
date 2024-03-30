@@ -1,5 +1,5 @@
 # Razor
-Hi, I'm Álex, known in GitHub as "RazorOnDev", I'm 16 y/o and I'm also from Spain. 
+Hi, my real name is Álex, known in GitHub as "RazorOnDev", I'm 16 y/o and I'm also from Spain. 
 I have a passion for computer development, particularly in the realms of video game development, full-stack multiplatform apps, and webpage fullstack development.
 
 My skills include game development using Unreal Engine 5, React Native for multiplatform apps, and web development technologies such as HTML, JavaScript, and CSS (or also React). 
