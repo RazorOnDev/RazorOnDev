@@ -5,6 +5,7 @@ I have a passion for computer development, particularly in the realms of mobile 
 My skills include app development through React Native Framework using Javascript and web development using languages such as JavaScript/React CSS/Tailwind CSS and pure HTML. 
 
 Visit my portfolio if you want to know more about me and to see all my personal projects.
+https://razor-portfolio.vercel.app/
 
 See ya!
 
