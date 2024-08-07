@@ -10,6 +10,6 @@ Visit my portfolio if you want to know more about me and to see all my personal 
 See ya!
 
 
-[![roadmap.sh](https://roadmap.sh/card/tall/65422d054352f418f80365ee?variant=dark&roadmaps=python%2Creact-native)](https://roadmap.sh)        ![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=RazorOnDev&show_icons=true&theme=tokyonight&layout=compact)
+![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=RazorOnDev&show_icons=true&theme=tokyonight&layout=compact)
 
 ![Snowflake107](https://github-readme-stats.vercel.app/api?username=RazorOnDev&show_icons=true&theme=tokyonight&hide=["issues"]) 
